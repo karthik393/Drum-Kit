@@ -80,3 +80,8 @@ background-image: url('snare.png');
   background-color: white;
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: rgb(53, 51, 51);
+  }
+}
